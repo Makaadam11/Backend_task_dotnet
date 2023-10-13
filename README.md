@@ -14,9 +14,6 @@ Use it for setting up a take-home interview assignment or a portfolio project.
 - Cypress
 - GitHub Actions
 
----
 
-Made by [DevSkills](https://devskills.co).
 
-Did you find this repo useful? **Give us a shout on [Twitter](https://twitter.com/DevSkillsHQ) / [LinkedIn](https://www.linkedin.com/company/devskills)**.
-
+# A Maka
